@@ -733,6 +733,11 @@ hash = "ce68cffda06309d918eb2eb15d9ed287c4ca73e797990bd4939b2488a37845c9"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "354a23e95a756fa2e8110b4d93a58e97c83409c33cf683c27c495f51848f2f41"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "b9204c0d45b538c159061880516e2c4b9aa88fc7469549185266781068fb3820"
 metafile = true

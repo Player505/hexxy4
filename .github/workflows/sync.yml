@@ -1,0 +1,124 @@
+name: Sync Main Branch with Upstream (Rebase Local Changes)
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  sync-main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout with full history
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream remote
+        run: |
+          git remote add upstream https://github.com/ChloeTax/hexxy4.git || true
+
+      - name: Fetch all changes
+        run: |
+          git fetch upstream
+          git fetch origin
+
+      - name: Check sync status
+        id: check-sync
+        run: |
+          git checkout main
+          BEHIND=$(git rev-list --count HEAD..upstream/main)
+          AHEAD=$(git rev-list --count upstream/main..HEAD)
+          echo "commits_behind=$BEHIND" >> $GITHUB_OUTPUT
+          echo "commits_ahead=$AHEAD" >> $GITHUB_OUTPUT
+          
+          if [ $BEHIND -gt 0 ] && [ $AHEAD -gt 0 ]; then
+            echo "sync_type=rebase" >> $GITHUB_OUTPUT
+            echo "Main has $AHEAD local commits and is $BEHIND commits behind upstream - will rebase"
+          elif [ $BEHIND -gt 0 ]; then
+            echo "sync_type=fast_forward" >> $GITHUB_OUTPUT
+            echo "Main is $BEHIND commits behind upstream with no local changes - will fast-forward"
+          else
+            echo "sync_type=none" >> $GITHUB_OUTPUT
+            echo "Main is up to date with upstream"
+          fi
+
+      - name: Fast-forward merge (no local changes)
+        if: steps.check-sync.outputs.sync_type == 'fast_forward'
+        run: |
+          git checkout main
+          echo "Fast-forwarding main to match upstream..."
+          git merge --ff-only upstream/main
+          git push origin main
+
+      - name: Rebase local changes onto upstream
+        if: steps.check-sync.outputs.sync_type == 'rebase'
+        run: |
+          git checkout main
+          echo "Rebasing local changes onto upstream/main..."
+          
+          # Rebase with automatic conflict resolution favoring upstream for conflicts
+          # -X theirs means upstream (theirs) wins for any conflicts
+          git rebase -X theirs upstream/main
+          
+          echo "Rebase successful (upstream changes take precedence) - pushing updated main"
+          git push origin main --force-with-lease
+
+      - name: No sync needed
+        if: steps.check-sync.outputs.sync_type == 'none'
+        run: |
+          echo "No sync needed - main branch is already up to date"
+
+      - name: Setup Go (for packwiz)
+        if: steps.check-sync.outputs.sync_type != 'none'
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+
+      - name: Install packwiz
+        if: steps.check-sync.outputs.sync_type != 'none'
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Run packwiz refresh after sync
+        if: steps.check-sync.outputs.sync_type != 'none'
+        run: |
+          echo "Running packwiz refresh after upstream sync..."
+          packwiz refresh --build
+
+      - name: Check for packwiz changes
+        if: steps.check-sync.outputs.sync_type != 'none'
+        id: check_packwiz_changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected after packwiz refresh"
+            echo "packwiz_changes_detected=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected after packwiz refresh"
+            echo "packwiz_changes_detected=true" >> $GITHUB_OUTPUT
+            
+            echo "Packwiz changed files:"
+            git diff --name-only
+            
+            echo "Brief summary of packwiz changes:"
+            git diff --stat
+          fi
+
+      - name: Commit packwiz changes
+        if: steps.check-sync.outputs.sync_type != 'none' && steps.check_packwiz_changes.outputs.packwiz_changes_detected == 'true'
+        run: |
+          git add .
+          git commit -m "chore: auto-refresh packwiz after upstream sync
+
+          - Updated modpack files via packwiz refresh
+          - Triggered after syncing ${{ steps.check-sync.outputs.commits_behind }} upstream commits
+          - May include mod updates, hash changes, and metadata updates
+
+          [skip ci]" || exit 0
+          git push origin main

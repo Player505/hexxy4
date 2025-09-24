@@ -54,7 +54,7 @@ hash = "fbe509da10323e3e5f3828e008493e42ce0d4b63c0b2fbe4a492c437349eaf4d"
 
 [[files]]
 file = "config/amendments-common.json"
-hash = "fd32611d434a12fb950f328a21cb317329c57071b0d277f9e6d9c8ea2f0e3fcc"
+hash = "be529fb0ab03d29819874fb03a1cc876c8f923b966c0c1c2f8c01eb316156dfb"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -66,7 +66,7 @@ hash = "98e9af02d851f1bdca91e999b5f83059692aa5145ab09327874cbb6bba4a69a6"
 
 [[files]]
 file = "config/armourers_workshop-common.toml"
-hash = "0e1ee30c15c497398299a1002101e44829eca755ee96a45f5d870214923c6bbc"
+hash = "1d4902a3bc52df4c2a9d97677d20ea06314b624ffb2d8e7858ae77c826882a67"
 
 [[files]]
 file = "config/authme.json5"
@@ -234,7 +234,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "8f3ba4381c367042b403a45d6b80866f30d9877f07e0e6557e213a5c06d40f64"
+hash = "d0d8d401a255c7fbb2c5e65c2474f136a5b8d3a4efc425a6827a79bed771beda"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -310,7 +310,7 @@ hash = "30fd9bc456ce2f64aa0f0618b9fe3856478109a8e4c3518156e4247b759fd312"
 
 [[files]]
 file = "config/hexcasting/client.json"
-hash = "b9a8ece6d2733d9ba354f630394f410597878675aba33262760848a7f4de2648"
+hash = "279bd4a83f83eab2c510a0948b2b5daeb20c9df253929ecc8fc05d9113023309"
 
 [[files]]
 file = "config/hexcasting/common.json"
@@ -322,11 +322,11 @@ hash = "db418efa39d5ede7690a2c9d5f1c931163801a1359c075865652ab8c6a554f30"
 
 [[files]]
 file = "config/hexdebug/client.toml"
-hash = "a8824320d8191d9001bb413bcd0afb5ad62b1274aff44a1d1317a0ad30a741a2"
+hash = "6b467787cc597797167616775158a67a061c4ac2f4a306f3f8714f7669c728ef"
 
 [[files]]
 file = "config/hexdebug/server.toml"
-hash = "a46140437f1a6da74afa12823b9b9f6a366a8a8a3e6e5f417edbcb0d5c5a6fd1"
+hash = "ab77b8f1807e5d8feafa9feadac846cffe7f84d338c4c272f5949ced0e7561db"
 
 [[files]]
 file = "config/hexportation/client.json5"
@@ -358,7 +358,7 @@ hash = "682e1c262c0f403a7d76899de722c1e0260d11209906854c31c19bc15030db4c"
 
 [[files]]
 file = "config/hierophantics/server.toml"
-hash = "ba0a65a81a7ce5b6899b160cc0ea3189ee28e4c4762ccdb94669e562611af950"
+hash = "ac0cf1fcba0f905ca950f6cc78c52118965ec73ca00a712ebbb33d73f5cfaae6"
 
 [[files]]
 file = "config/immersive_paintings.json"
@@ -474,7 +474,7 @@ hash = "5bd9ce5e7341cd6b074140bffe3f566848ff83f430aaa432ecfa82a8b485ed36"
 
 [[files]]
 file = "config/moonlight-common.json"
-hash = "516805b2e1c9d36851a890900fa572a077f7bad5869cfe8d9d5816543f73149d"
+hash = "7d520e83da5a29b267a49176cc39ce377891498a285b039e76a470242c7a02d8"
 
 [[files]]
 file = "config/moreiotas/client.json5"
@@ -518,7 +518,7 @@ hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 
 [[files]]
 file = "config/oneironaut/server.json5"
-hash = "42aeca54c472168e183bf79d2eda487cd49d48e4391c78f884d051d67ecfab2d"
+hash = "a9c2f1f377d2d24017586d9b3c01bf94ea4ef1623661f797a0b7f3f7275e3ae5"
 
 [[files]]
 file = "config/packages-common.cfg"
@@ -614,7 +614,11 @@ hash = "2a7f665b2d4c4da4465d59f0a4cea0d5502c318336e60741906138c1680e3d58"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "190b11adebfc76367253e953066689af7f9c3c69d0fdcec00bdaab9534651bdb"
+hash = "19121f948a4effd682d3542aa30e693e218a86dcc436d325138473908a0f72fd"
+
+[[files]]
+file = "config/surveyor.toml"
+hash = "7d6ff653412b5adc5aa85ba2eca4428139fc2e89f39f6592407db3d7fa5e70da"
 
 [[files]]
 file = "config/toomanybinds.json5"
@@ -626,7 +630,7 @@ hash = "ff334879cf2146f183ff4dd34dd8ef7860165e9f5bb1298689376ac95756a93b"
 
 [[files]]
 file = "config/tt20/config.json"
-hash = "26ddf4fb791296a09fb11dbd9f035f6707b58c3fa488b4b47a0e837c04fdf667"
+hash = "7b9797911b7be3d0b053e375535574078405f7c480ec0a09958fb699f093bc05"
 
 [[files]]
 file = "config/unloaded-activity.json"
@@ -991,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexdebug.pw.toml"
-hash = "012eb46788cfb7009749e062f8a4176d86f955de835fd7208c72dbf365529933"
+hash = "61a6904602da821ba762bffe745c9366c4894bf79490d7a23ccdbc6be761528f"
 metafile = true
 
 [[files]]
@@ -1139,8 +1143,8 @@ hash = "81a887ef34c602d957726b60441c197e0ca50e59bc31ebee290355fce275d72a"
 metafile = true
 
 [[files]]
-file = "mods/moreiotas-fabric.pw.toml"
-hash = "405a06763928118136c41991d4625440f2bc1b2f065f73d6df2b571a3543e4b5"
+file = "mods/moreiotas.pw.toml"
+hash = "ca79cd255312647197d6cb8c228efa9f07b6ec97d587e1ab596e52a1af4f02aa"
 metafile = true
 
 [[files]]
@@ -1417,6 +1421,10 @@ file = "scripts/common/phials.zs"
 hash = "4b5a7c3488b572846f638cd0c1f31edffb64569b652b2c365059006cb695dd30"
 
 [[files]]
+file = "scripts/hexbox.zs"
+hash = "b46dfd49f02f47a30acfe4cc875bfc75c9be9b8e3da629d41446f68bdca78922"
+
+[[files]]
 file = "scripts/recipes/create_begone.zs"
 hash = "9b852bf521fe20d52d6ac1cabba89dae9e9b5927af5b0b6bb99a3048d44b2018"
 
@@ -1435,3 +1443,7 @@ hash = "0533aa2928ebc2f39cda29d52c3827fd08f2a84b9c3895e9b0784c3fbb45bcfe"
 [[files]]
 file = "scripts/tags/everblacklist.zs"
 hash = "187297219c133aab5b8b739d732e9a23f6daae0a41d2077f5ab3714fdeb9c050"
+
+[[files]]
+file = "scripts/tags/splicingTable.zs"
+hash = "9c61e432a1b67ea40d2f553dc41e99a5cbee709ec2c5dea853d2e8dd5453a7de"

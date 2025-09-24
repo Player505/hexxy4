@@ -1038,6 +1038,10 @@ hash = "e26fb91066c6f2c8c1e96c07a6cf61ad739e3c6c54e28d0b70455ba902f73024"
 metafile = true
 
 [[files]]
+file = "mods/hexxyinthealps-fabric-0.1.0+1.20.1-SNAPSHOT.jar"
+hash = "79942e481f871836cdbf9b1e7a3ca547832cb959a41e82c386d17d9de6dc3219"
+
+[[files]]
 file = "mods/hierophantics.pw.toml"
 hash = "a784dc20f02e5970dafe426a331eeb0ee00ece86b0fe5a7b64d16e5170fcea26"
 metafile = true

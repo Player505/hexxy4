@@ -178,7 +178,7 @@ hash = "e4cb1af285458f92a3bfc8e65ea0623032dbf644a6cb1060d6d432d4e9a899ac"
 
 [[files]]
 file = "config/dummmmmmy-common.json"
-hash = "f6cdf21b7c91e296b15e8b7c755181bad68f9549764936131691411e4b51b13f"
+hash = "10f5811f66e1199aafbf4ab5043b380795e4ab756a3e05a54fb739e30d3398af"
 
 [[files]]
 file = "config/effective.json"
@@ -1039,7 +1039,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexxyinthealps-fabric-0.1.0+1.20.1-SNAPSHOT.jar"
-hash = "79942e481f871836cdbf9b1e7a3ca547832cb959a41e82c386d17d9de6dc3219"
+hash = "7b04a728d1ebd804398063ee3c9b74c02bb826f1ad50b22ed4a606d5a9704599"
 
 [[files]]
 file = "mods/hierophantics.pw.toml"

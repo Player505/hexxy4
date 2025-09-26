@@ -890,8 +890,28 @@ hash = "253d0905e558cf8633af648339d25f17e1aef3991b72d4ce0199a70db8a71aef"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "b4ab0cc9a2ddcc3753b6775a62092f90e8f41f47c58a8f4cfcb41001c404d490"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "f9109bb1aae21525af8da7ed9d062b5a9c3f32a520a4fb5816847e051b64dd34"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "73323b708304a194d6ecdca4f477887898686a6f309f8cc053bc50fed1b703e5"
+metafile = true
+
+[[files]]
+file = "mods/emienchants.pw.toml"
+hash = "e8c7a4925dcf61da8ab1527a483e4b7573c4067cfed897bd0c5844b3c7e28a52"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
 metafile = true
 
 [[files]]

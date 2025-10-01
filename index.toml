@@ -50,7 +50,7 @@ hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
 file = "config/amendments-client.json"
-hash = "fbe509da10323e3e5f3828e008493e42ce0d4b63c0b2fbe4a492c437349eaf4d"
+hash = "c11e10dcc6c9e84f77040e6e8171351a9ac30acf8af8c6d6dc872177fdfc03dd"
 
 [[files]]
 file = "config/amendments-common.json"
@@ -170,7 +170,7 @@ hash = "91dd913b34ee1fdfc426bb48ed5fa3f38265d0b471d50252916c2a79b00ab289"
 
 [[files]]
 file = "config/default-hotkeys.json"
-hash = "240bf03a5de4d342efa1f83abfc71972f00efab2170bc4fb912f75d84e3bdcdc"
+hash = "24248074c2b537c57e8d6e04bed14d46203e0bea359be6a9088da6adcc49825e"
 
 [[files]]
 file = "config/dummmmmmy-client.json"
@@ -322,7 +322,7 @@ hash = "db418efa39d5ede7690a2c9d5f1c931163801a1359c075865652ab8c6a554f30"
 
 [[files]]
 file = "config/hexdebug/client.toml"
-hash = "6b467787cc597797167616775158a67a061c4ac2f4a306f3f8714f7669c728ef"
+hash = "343886c3cd931b812b5c03c7db87f5e7182fcb9d792d483dd67484f89eab93a9"
 
 [[files]]
 file = "config/hexdebug/server.toml"
@@ -347,6 +347,14 @@ hash = "e31e1e4a392c81a903fbb296b2276e8aa134fca0335f33e9849d0dc7da13631d"
 [[files]]
 file = "config/hexstruction/server.toml"
 hash = "86db026a6eff1c090d363069db0536d0c3b6fda9bb239d32dfcd7ae4e280dab4"
+
+[[files]]
+file = "config/hexxyinthealps/client.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/hexxyinthealps/server.toml"
+hash = "c8239fd7e304556e81ef98df0c7807d47603309964f126f47d949d5209b58e10"
 
 [[files]]
 file = "config/hierophantics.json5"
@@ -470,7 +478,7 @@ hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
 
 [[files]]
 file = "config/moonlight-client.json"
-hash = "5bd9ce5e7341cd6b074140bffe3f566848ff83f430aaa432ecfa82a8b485ed36"
+hash = "c40386376fc147c5ac73a3f8a125c2561f410bd7c6e13b8a61d99dc0e69d6176"
 
 [[files]]
 file = "config/moonlight-common.json"
@@ -521,6 +529,10 @@ file = "config/oneironaut/server.json5"
 hash = "a9c2f1f377d2d24017586d9b3c01bf94ea4ef1623661f797a0b7f3f7275e3ae5"
 
 [[files]]
+file = "config/packages-client.cfg"
+hash = "44e93755940db6862a2946327ca60be91f149ab03ef4546ba2ee30bd0c701a26"
+
+[[files]]
 file = "config/packages-common.cfg"
 hash = "46c64c42022e7d1be1bb80596171d43ab8cc41d47a405e122d7af06ce34da3cc"
 
@@ -534,7 +546,7 @@ hash = "2bcb7aea228925ebab95b854ac359bc26993af0a6f4b49b33e6cb734d284c35b"
 
 [[files]]
 file = "config/particlerain.json"
-hash = "f3174f89df74dd44ec8d7e49a6b43ae3917046d0cf4f96d6e1e4657f2235fb66"
+hash = "6d69cafc586441f1dba697e6c13ac05e92194ce6909248852f3a355b7e842ebe"
 
 [[files]]
 file = "config/patchouli.json5"
@@ -610,7 +622,7 @@ hash = "948a29a56365963843be1033940cba9c5b94ba91adb9a58c33407bf9c1bc4641"
 
 [[files]]
 file = "config/supplementaries-client.json"
-hash = "2a7f665b2d4c4da4465d59f0a4cea0d5502c318336e60741906138c1680e3d58"
+hash = "2422d047ee038201fbc9d08f3b4bcbdabb3dcfe5a619e3370e2232bda77c9ee2"
 
 [[files]]
 file = "config/supplementaries-common.json"
@@ -703,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "69ec16eae802711cfcf905e3aa94e710e1cd4f13c8d9c4a1865ec91ea49dfc0d"
+hash = "564a3ee6320f0495e8da75b2e84218c68470faeef05fefecd004cc4a21c970c6"
 metafile = true
 
 [[files]]
@@ -817,8 +829,8 @@ hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
 
 [[files]]
-file = "mods/complexhex-fabric-1.20.1-0.1.6-beta.jar"
-hash = "ea86bb7f7623af0641ca65f3a21cebf55c5bd5c67d6c850af8e227999fd99691"
+file = "mods/complexhex-fabric-1.20.1-0.1.6-beta-d433a18.jar"
+hash = "bb9299781f1d12148f3836646bfb0a9f5477f57d24e611ee6323ddd0ddfa204d"
 
 [[files]]
 file = "mods/controlling.pw.toml"
@@ -881,8 +893,8 @@ hash = "d3bd6641df74036ed14a7a2879c2743b4d6c2d953cfd12f3b4604ba2fa7d0b22"
 metafile = true
 
 [[files]]
-file = "mods/efhexs-1.0.0-81157d8.jar"
-hash = "f857f43ca6e193ec0a17ad6c5dce640a429fabfcca9b48f7fb45b8ce3a119984"
+file = "mods/efhexs-1.0.0-20dbe0d.jar"
+hash = "bdbea2df3c466eff733377685a4a199516f7ac7b67c82dd32e0521d37f386bce"
 
 [[files]]
 file = "mods/embeddedcomputer.pw.toml"
@@ -974,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "355e12f3c6fc33fc25d509a9b53d2612ec8dc4e8f60a74be769c0254abec42f1"
+hash = "9a45a35333f1b94959465ffaca343ed16712dca5d849cd72259519418224c2af"
 metafile = true
 
 [[files]]
@@ -996,8 +1008,8 @@ file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.j
 hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
 
 [[files]]
-file = "mods/hexcassettes-2.0.0.jar"
-hash = "70775194c63b1219c4e153e7c2c712efb1a25693b7d189d6ce34957945118987"
+file = "mods/hexcassettes-2.0.0-fcc91b3.jar"
+hash = "9413162ddf6223cd6ea844c24199398f9c0f0a52050e3d1972fc8a595f9aa085"
 
 [[files]]
 file = "mods/hexcasting-fabric.pw.toml"
@@ -1005,8 +1017,8 @@ hash = "91925765960497f9189182d96441a5d9655aa1830f28f5081bf6baa1e3478863"
 metafile = true
 
 [[files]]
-file = "mods/hexcellular-1.1.0.jar"
-hash = "ee7ce93b869ccdd4637860f73c13c0fa4a22220f117cdcb4e943cfa37e119073"
+file = "mods/hexcellular-1.1.0-64d134a.jar"
+hash = "e54f19e2bce24516a5c480f699fc6da910fd6b2d71e425a16636669dfdc517aa"
 
 [[files]]
 file = "mods/hexchanting.pw.toml"
@@ -1015,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexdebug.pw.toml"
-hash = "61a6904602da821ba762bffe745c9366c4894bf79490d7a23ccdbc6be761528f"
+hash = "912248ca26e459f69a5667e46777cf8346c5644b7c458135e95e5868f30bdb01"
 metafile = true
 
 [[files]]
@@ -1059,7 +1071,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexxyinthealps-fabric-0.1.0+1.20.1-SNAPSHOT.jar"
-hash = "7b04a728d1ebd804398063ee3c9b74c02bb826f1ad50b22ed4a606d5a9704599"
+hash = "7383087793adbb851fe7124c485fc9b27297c6d63ddcf1a1f1595601c4ff1c39"
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
@@ -1163,12 +1175,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "81a887ef34c602d957726b60441c197e0ca50e59bc31ebee290355fce275d72a"
+hash = "d19ac094ccbbf659b5763fcc316c4cba5791e690f509e352be3aafd47b147d7e"
 metafile = true
 
 [[files]]
 file = "mods/moreiotas.pw.toml"
-hash = "ca79cd255312647197d6cb8c228efa9f07b6ec97d587e1ab596e52a1af4f02aa"
+hash = "d8c0416ea4e2cd982d289645cf64395f53e6232e3d378c9b58da083bc41d1be8"
 metafile = true
 
 [[files]]
@@ -1217,12 +1229,12 @@ hash = "a4d50f47614999e8bd7dee5fd86b3dfe6b2a918c4d9d74ad226d0061fb783104"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0-e0f3332.jar"
-hash = "7480217ac5f0421b5773430eb8b4abfbbd9070ec0d06e74434344365c5a511e0"
+file = "mods/oneironaut-fabric-1.20.1-0.5.0-e78c2e6.jar"
+hash = "62120a8c37a56d911451c16c4c5dca3937a041c7f7c5337fc6d5d549c3e6ba49"
 
 [[files]]
-file = "mods/overevaluate-1.0.0-871cd21.jar"
-hash = "ddcf49dbc7de99a8da10c038a643923eed3c9be4bd6699f484d6732245d86831"
+file = "mods/overevaluate-1.0.0-c100474.jar"
+hash = "0e0a62886e003f2a753c49497b55b9e86c57207e641a1d17bfacc66ece985645"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
@@ -1241,7 +1253,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "c66d97f53f88fc154ad24dd7be0217f54f56c36b98c06b64efb1ac8c8ecdc83b"
+hash = "0ed014a88c1df3967ca284d1dc0662554a9691fdf1a2fa3edaa73a7bc8014344"
 metafile = true
 
 [[files]]
@@ -1271,7 +1283,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "7e8389ffd110ceeda6c2e16bd80763f770ee4794f32ed77de7d0ee879fb89df5"
+hash = "277f018e3766fcdc41280aafe1ea8dde0e67788c564a275aa4c3482a66e9c3bc"
 metafile = true
 
 [[files]]
@@ -1467,7 +1479,3 @@ hash = "0533aa2928ebc2f39cda29d52c3827fd08f2a84b9c3895e9b0784c3fbb45bcfe"
 [[files]]
 file = "scripts/tags/everblacklist.zs"
 hash = "187297219c133aab5b8b739d732e9a23f6daae0a41d2077f5ab3714fdeb9c050"
-
-[[files]]
-file = "scripts/tags/splicingTable.zs"
-hash = "9c61e432a1b67ea40d2f553dc41e99a5cbee709ec2c5dea853d2e8dd5453a7de"

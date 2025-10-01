@@ -715,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "564a3ee6320f0495e8da75b2e84218c68470faeef05fefecd004cc4a21c970c6"
+hash = "1ca7e1d160b3ab3bfd6e3f42095430ff586fe6ef6acf2e44df38caefc2af02c5"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "dacf0992103fdfd67b776b0d32a9341c52b82a155731893863342842e277fc69"
+hash = "b1f3b4fef1649dc30619aa87ae6caed97c98d5cf6ba94622cc214f4049628e46"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ hash = "7383087793adbb851fe7124c485fc9b27297c6d63ddcf1a1f1595601c4ff1c39"
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
-hash = "a784dc20f02e5970dafe426a331eeb0ee00ece86b0fe5a7b64d16e5170fcea26"
+hash = "43824cf089faf8d86273c5b13df4916aadfe1c07b21c207783e8371a07897914"
 metafile = true
 
 [[files]]

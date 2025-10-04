@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "9fa7f422a2cc33e572fa50b7120237f5c870608fa101565bd088a708c54de332"
+hash = "feacac693f64c74fd7482292d5f3e7f97b6615da684cea67c295ed0e774e8d1d"
 metafile = true
 
 [[files]]
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura-0.1.5+1.20.1-fabric-mc.jar"
-hash = "1fc863729740cf2440a7abe92e4712ebd852771d475c5c7e995f535c3753423e"
+hash = "38af12f3766010e638fef785296b03280de0b67d60c9035299a4a62396b7da50"
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
@@ -1027,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexdebug.pw.toml"
-hash = "912248ca26e459f69a5667e46777cf8346c5644b7c458135e95e5868f30bdb01"
+hash = "309df2a1401d03bf5780929cb492e949005ebe6d04d3804e530ef1ba5d8a805e"
 metafile = true
 
 [[files]]
@@ -1140,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/lesser-teleport.pw.toml"
-hash = "efef3db3092142b999ded7aefd2b68e3c0f1d4b00ca7367b71a3d584b6fb5a79"
+hash = "2ae602e2ec5d87e68790326913202b71da20c7166cd70beb42405412decff16b"
 metafile = true
 
 [[files]]
@@ -1253,7 +1253,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "0ed014a88c1df3967ca284d1dc0662554a9691fdf1a2fa3edaa73a7bc8014344"
+hash = "446fca78dc84af23226690daeb83da711ddce2c6c0646b96ee90f6be5377d4f7"
 metafile = true
 
 [[files]]
@@ -1312,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/slate-works.pw.toml"
-hash = "5166e1b654fa35397d25eeac4924aa5a5b055ee170e15eb2574fbc1a5915f89a"
+hash = "118569da2cabee9ab4d7cd3b3d723518333de23f33180112e40f47b10d296ebd"
 metafile = true
 
 [[files]]
@@ -1342,7 +1342,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7130d521581289ab112bb8f015882d98145d88ad08f661f3a04de2db64a597ef"
+hash = "fa2f94685e4cc13b33eb050f039f6ed8f7b8a8a4d3e82cec7d1099c11730f67c"
 metafile = true
 
 [[files]]

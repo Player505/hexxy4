@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "feacac693f64c74fd7482292d5f3e7f97b6615da684cea67c295ed0e774e8d1d"
+hash = "a932a1e9f07a46e5d2baee19ad49de3ebb24eb41af76676821320133fa2db2ee"
 metafile = true
 
 [[files]]
@@ -966,8 +966,8 @@ hash = "27058ff24b894fe8d1157017c13db4bb5f4953d9a89a76b7ba0ad9d1723f4d19"
 metafile = true
 
 [[files]]
-file = "mods/figura-0.1.5+1.20.1-fabric-mc.jar"
-hash = "38af12f3766010e638fef785296b03280de0b67d60c9035299a4a62396b7da50"
+file = "mods/figura-0.1.5+1.20.1-fabric-mc-a5f5d5d.jar"
+hash = "5c2c480b758f307b938e29259cd96a23191670cd338ac996493b97cae4b8dad2"
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
@@ -1175,7 +1175,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d19ac094ccbbf659b5763fcc316c4cba5791e690f509e352be3aafd47b147d7e"
+hash = "d884cbc28489322662e54c809ae6b05b0600a8a55d1cfe8b54ee5fb71d996ee5"
 metafile = true
 
 [[files]]
@@ -1229,8 +1229,8 @@ hash = "a4d50f47614999e8bd7dee5fd86b3dfe6b2a918c4d9d74ad226d0061fb783104"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0-e78c2e6.jar"
-hash = "62120a8c37a56d911451c16c4c5dca3937a041c7f7c5337fc6d5d549c3e6ba49"
+file = "mods/oneironaut-fabric-1.20.1-0.5.0-85666cb.jar"
+hash = "40ba0cd5af995d906f9a8a30cc1fd218d1d879451c673ed8f58a6bde532589a9"
 
 [[files]]
 file = "mods/overevaluate-1.0.0-c100474.jar"
@@ -1297,8 +1297,8 @@ hash = "029acab7ef100720cf537fcb676e706b61fd289add0f712185ec81ceff944804"
 metafile = true
 
 [[files]]
-file = "mods/scryglass-1.0.0-ae42d7b.jar"
-hash = "5799b0d784dfeb6c5c5dcdbcbebab1f1f8dcb9b123cc7770a1f555d86025b9ba"
+file = "mods/scryglass-1.0.0-6c096fb.jar"
+hash = "9885b852bbb9d706f5a183597b701ae2ff9350cb0d6dcd24c83c7c5cb82104dc"
 
 [[files]]
 file = "mods/searchables.pw.toml"

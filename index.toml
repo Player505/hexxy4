@@ -217,6 +217,10 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "58333d9d7504ef2009dbc3e4fe064d4a4777b6e7e0c4ff328ba4c3a43e1c328d"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "cfad491ea4ca9cfc6e22a03093e5b466a84095ec56d169259df9d1cbd85c0432"
+
+[[files]]
 file = "config/fabrication/block_logo.ini"
 hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
 
@@ -658,7 +662,7 @@ hash = "6144784f25b3752dce678e4e93553cc28bb487e0d6c0973c7f643c132c3a23a1"
 
 [[files]]
 file = "config/vivecraft-server-config.toml"
-hash = "63be2e8291755fc03ada4583f72839047b68f2e1a4e112315c2debac854e1a7a"
+hash = "aa8c6b815e5768962b2eaad1f96c27cd20480540b116ac47424fca1a966cd95b"
 
 [[files]]
 file = "config/watut-client.toml"
@@ -1004,8 +1008,8 @@ hash = "4909540724dd1ed0dc1ece335f34f09f6da522afc357dfe7ec0cc21d75d68c17"
 metafile = true
 
 [[files]]
-file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar"
-hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
+file = "mods/hexal-fabric-1.20.1-0.3.0-4.jar"
+hash = "42701d2d47119fc272e29971c04cd1c6a0bb223b4419c07a798c79346c129b2e"
 
 [[files]]
 file = "mods/hexcassettes-2.0.0-fcc91b3.jar"
@@ -1150,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "a28dd36b91f95e14dae9fc4b75a8316d9dc753182587e4fe9ca5d21963d05814"
+hash = "a6dbb15172847b18f2e3591c4442a273fe1391dbb1d8ddee632bbec9b5544d3c"
 metafile = true
 
 [[files]]
@@ -1283,7 +1287,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "277f018e3766fcdc41280aafe1ea8dde0e67788c564a275aa4c3482a66e9c3bc"
+hash = "5b1fda3b2f549a21e645f20c0621dcd0d818bf5f65c7602a855c1ad9925c2d4e"
 metafile = true
 
 [[files]]

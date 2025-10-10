@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "3b1cd3560d9816eceef468b8179e37867a2d5d5ddc288527b8caa6b45ad75d75"
+hash = "4a302345309b82d8464cc0a9c8bc4b8567c0deee64d4985aaee6916d212dfef0"
 metafile = true
 
 [[files]]
@@ -1009,7 +1009,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexal-fabric-1.20.1-0.3.0-4.jar"
-hash = "42701d2d47119fc272e29971c04cd1c6a0bb223b4419c07a798c79346c129b2e"
+hash = "7600eee63a30b050745286911b8cb3ee152760b00828eefbb775420d68cc4249"
 
 [[files]]
 file = "mods/hexcassettes-2.0.0-fcc91b3.jar"
@@ -1154,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "a6dbb15172847b18f2e3591c4442a273fe1391dbb1d8ddee632bbec9b5544d3c"
+hash = "5178c9f22f7707e94117172c5fa80193b0b6aae0470bccef1b333f07b9619525"
 metafile = true
 
 [[files]]
@@ -1287,7 +1287,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "5b1fda3b2f549a21e645f20c0621dcd0d818bf5f65c7602a855c1ad9925c2d4e"
+hash = "ea4cfa55b65336a810d5ea5bd668851bd6bb4d7e09d800defadb24bee8061dbc"
 metafile = true
 
 [[files]]
@@ -1482,4 +1482,4 @@ hash = "0533aa2928ebc2f39cda29d52c3827fd08f2a84b9c3895e9b0784c3fbb45bcfe"
 
 [[files]]
 file = "scripts/tags/everblacklist.zs"
-hash = "187297219c133aab5b8b739d732e9a23f6daae0a41d2077f5ab3714fdeb9c050"
+hash = "686e9dfc96f5c3f0f40d6ba6f1cf19e4210b78eae7bf67670e8e817e66d0ed7c"

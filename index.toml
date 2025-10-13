@@ -852,9 +852,8 @@ hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
 metafile = true
 
 [[files]]
-file = "mods/create-tweaks.pw.toml"
-hash = "b531875bfaf9426b161e633fdb31822faf3120f9b236aa285221349d81f878c3"
-metafile = true
+file = "mods/create-tweaks-0.1.0+1.20.1.jar"
+hash = "92c474a74c0f136f53e8720397964212117c01c80adacb125e5f3b23947c1444"
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
@@ -872,8 +871,13 @@ hash = "f480d5d34d370642b6515911b08990ca62fbe6c29040da40e42bb7eccc819d51"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "70a60b44cb524e771c16d26a8e5ecdc0fd9f4c94a5e6280e3534ecfca45fd332"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "c34a822a0bb2bf4a3a9e4b13ab9ab00498e0d08e93f109215d87abe43f20bd2a"
+hash = "4b26b5301929dcac6a812942d0501c437e67bcd2f952401f790fd1f4289fc359"
 metafile = true
 
 [[files]]
@@ -979,9 +983,8 @@ hash = "1566b264dd8caccf96ffb37f6151a32d62f94458b8eb7ee1b1711c513a081423"
 metafile = true
 
 [[files]]
-file = "mods/fsb-carpet-addon.pw.toml"
-hash = "4429cfd244e1612e51c76835a8d4cff00802f11ef10b1665075ca2e2712c2226"
-metafile = true
+file = "mods/fsb-carpet-addon-0.1.1.jar"
+hash = "6e6fbf2069ec9be848228ac5de0c276874720ec9c4e72e93b1152d52eb2ba9d9"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
@@ -1009,16 +1012,15 @@ metafile = true
 
 [[files]]
 file = "mods/hexal-fabric-1.20.1-0.3.0-4.jar"
-hash = "7600eee63a30b050745286911b8cb3ee152760b00828eefbb775420d68cc4249"
+hash = "f136d6a8d3f2062827cd10171705837b9a0dad20b7bbe334af894e645c9442ba"
 
 [[files]]
-file = "mods/hexcassettes-2.0.0-fcc91b3.jar"
-hash = "9413162ddf6223cd6ea844c24199398f9c0f0a52050e3d1972fc8a595f9aa085"
+file = "mods/hexcassettes-2.0.0-b7d281b.jar"
+hash = "a73481711bb57f2eb8461c71a3e562602cbf097c6ae90f0ad0df49386e7bd60d"
 
 [[files]]
-file = "mods/hexcasting-fabric.pw.toml"
-hash = "91925765960497f9189182d96441a5d9655aa1830f28f5081bf6baa1e3478863"
-metafile = true
+file = "mods/hexcasting-fabric-1.20.1-0.11.2-pre-739.jar"
+hash = "13cddf951f9b2f97bc79b0b536ef0353343f605ae2bbc0f7a7c45c1c6e43312a"
 
 [[files]]
 file = "mods/hexcellular-1.1.0-64d134a.jar"
@@ -1033,6 +1035,10 @@ metafile = true
 file = "mods/hexdebug.pw.toml"
 hash = "309df2a1401d03bf5780929cb492e949005ebe6d04d3804e530ef1ba5d8a805e"
 metafile = true
+
+[[files]]
+file = "mods/hexic-1.3.4.jar"
+hash = "f1e073001159e12ff66bf3423fd35f7d21c442a3c745f615773c27ab206f317a"
 
 [[files]]
 file = "mods/hexical-2.0.0-e0d7ef9.jar"
@@ -1233,12 +1239,12 @@ hash = "a4d50f47614999e8bd7dee5fd86b3dfe6b2a918c4d9d74ad226d0061fb783104"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0-85666cb.jar"
-hash = "40ba0cd5af995d906f9a8a30cc1fd218d1d879451c673ed8f58a6bde532589a9"
+file = "mods/oneironaut-fabric-1.20.1-0.5.0-3b2753b.jar"
+hash = "661489d3cf3f6757949042848e3f4e452c501dc047146492ec3c2b5e698bc88a"
 
 [[files]]
-file = "mods/overevaluate-1.0.0-c100474.jar"
-hash = "0e0a62886e003f2a753c49497b55b9e86c57207e641a1d17bfacc66ece985645"
+file = "mods/overevaluate-1.0.0-7ebb76e.jar"
+hash = "01e98745137398e905e5da6ce53e5dc8140e30480c4f27dc99db7fc991cc7c0a"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
@@ -1375,9 +1381,8 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
-file = "mods/trinkhide-1-0-1-object-object-jar.pw.toml"
-hash = "3e43686083cd8fc8ab06d1cc51857b71cdd60de14a0436e7b2a85b4b35f88642"
-metafile = true
+file = "mods/trinkhide-1.0.1+object-Object.jar"
+hash = "a91d1540d32bae3ee22e7d8784f78faa2519f16393334854ce7b7aefb7eca4a5"
 
 [[files]]
 file = "mods/tt20.pw.toml"

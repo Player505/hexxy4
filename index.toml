@@ -218,7 +218,7 @@ hash = "58333d9d7504ef2009dbc3e4fe064d4a4777b6e7e0c4ff328ba4c3a43e1c328d"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "cfad491ea4ca9cfc6e22a03093e5b466a84095ec56d169259df9d1cbd85c0432"
+hash = "d81ad7d0941b160ffde42d9d1d2028c7035a62b67d23b8035fbad139da09baf6"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "b9687a070b67af03d0b5abc61bc0c8fcc1cd169376ab60d1574e179c9abf3ff9"
+hash = "ae21d5e3b44b6982d0a0c5bf3c6c3ea9f4b3a9d1765f601a3c626d61c344d1f2"
 metafile = true
 
 [[files]]
@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "ab9f6ec97d005bb4478aebc15e8d2fa080ccc8a9325267c22105eea8d024782d"
+hash = "4fde02c702284636456f8292899b53cbd0a2c1e394210a2c5d02c776247fcd19"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "4b26b5301929dcac6a812942d0501c437e67bcd2f952401f790fd1f4289fc359"
+hash = "e7257e41cc40352a1ce63f9c8a995d4407750b3305fd4268c1c56b4664ac10df"
 metafile = true
 
 [[files]]
@@ -955,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d50a70cd12c8cc0bad73ca4c78dfa1943597232e6dd58c7504ed0dde09438ffe"
+hash = "44ce91936136fb30c08b2f062e6d92493f1f2cc5a526a8039b54d1ae3f61279c"
 metafile = true
 
 [[files]]
@@ -1011,16 +1011,16 @@ hash = "4909540724dd1ed0dc1ece335f34f09f6da522afc357dfe7ec0cc21d75d68c17"
 metafile = true
 
 [[files]]
-file = "mods/hexal-fabric-1.20.1-0.3.0-4.jar"
-hash = "f136d6a8d3f2062827cd10171705837b9a0dad20b7bbe334af894e645c9442ba"
+file = "mods/hexal-fabric-1.20.1-0.3.0-05823bd.jar"
+hash = "ef88258c8a76588608fe9a8cd3b38dc4caa00b8f54eb0d5aca6461543c1df87f"
 
 [[files]]
 file = "mods/hexcassettes-2.0.0-b7d281b.jar"
 hash = "a73481711bb57f2eb8461c71a3e562602cbf097c6ae90f0ad0df49386e7bd60d"
 
 [[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.2-pre-739.jar"
-hash = "13cddf951f9b2f97bc79b0b536ef0353343f605ae2bbc0f7a7c45c1c6e43312a"
+file = "mods/hexcasting-fabric-1.20.1-0.11.2-285c9df.jar"
+hash = "e2bfdc1fcb448dc55cdaf9b8944d6a1441161622e50442b3f04f6b790756a9f5"
 
 [[files]]
 file = "mods/hexcellular-1.1.0-64d134a.jar"
@@ -1035,6 +1035,10 @@ metafile = true
 file = "mods/hexdebug.pw.toml"
 hash = "309df2a1401d03bf5780929cb492e949005ebe6d04d3804e530ef1ba5d8a805e"
 metafile = true
+
+[[files]]
+file = "mods/hexic-1.4.4.jar"
+hash = "4c6fdc5268c8dcecd46e7dbaeea28016f034041d326bc9688f3bece3517ada12"
 
 [[files]]
 file = "mods/hexical-2.0.0-e0d7ef9.jar"
@@ -1181,7 +1185,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d884cbc28489322662e54c809ae6b05b0600a8a55d1cfe8b54ee5fb71d996ee5"
+hash = "88d0d013cbbed8e0ff8a329ae57a70ff6baef869b8b73e9d8231282655795f75"
 metafile = true
 
 [[files]]
@@ -1235,8 +1239,8 @@ hash = "a4d50f47614999e8bd7dee5fd86b3dfe6b2a918c4d9d74ad226d0061fb783104"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0-3b2753b.jar"
-hash = "661489d3cf3f6757949042848e3f4e452c501dc047146492ec3c2b5e698bc88a"
+file = "mods/oneironaut-fabric-1.20.1-0.5.0-54b1e21.jar"
+hash = "840c1552088a0f5829d4af4769638f8598fe248a64563ba2dff66335bf025d96"
 
 [[files]]
 file = "mods/overevaluate-1.0.0-7ebb76e.jar"
@@ -1259,7 +1263,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "446fca78dc84af23226690daeb83da711ddce2c6c0646b96ee90f6be5377d4f7"
+hash = "1c2e78b8bc5a759edfd37bc8674fa38aa30bb42ae91692dfa61bf237a64117be"
 metafile = true
 
 [[files]]
@@ -1348,7 +1352,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "fa2f94685e4cc13b33eb050f039f6ed8f7b8a8a4d3e82cec7d1099c11730f67c"
+hash = "58905ee477c993a61da2f8aa960ada1c68cfe6c31b75733562ae3578db03f621"
 metafile = true
 
 [[files]]
@@ -1382,7 +1386,7 @@ hash = "a91d1540d32bae3ee22e7d8784f78faa2519f16393334854ce7b7aefb7eca4a5"
 
 [[files]]
 file = "mods/tt20.pw.toml"
-hash = "846e69de98e82540d2360cf04a044dd209829fce1219d08d2782091d3498fbae"
+hash = "1f93bc82cf13fee18fc3a49dfeeea9dd09218a3309afe2b040faa8cb2baa1b11"
 metafile = true
 
 [[files]]
@@ -1467,7 +1471,7 @@ hash = "b46dfd49f02f47a30acfe4cc875bfc75c9be9b8e3da629d41446f68bdca78922"
 
 [[files]]
 file = "scripts/recipes/create_begone.zs"
-hash = "9b852bf521fe20d52d6ac1cabba89dae9e9b5927af5b0b6bb99a3048d44b2018"
+hash = "1762cdcd75abf87b8bd5cebc4ca4ec2183d036646b8b139b20de08cf99bdbccf"
 
 [[files]]
 file = "scripts/recipes/hex_changes.zs"

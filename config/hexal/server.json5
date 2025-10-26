@@ -1,5 +1,6 @@
 {
 	"generateSlipwayGeodes": true,
+	"everbookMaxSize": 67108800,
 	"miscSpells": {
 		"fallingBlockCost": 1.5,
 		"freezeCost": 1.0,

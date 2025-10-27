@@ -1,14 +1,24 @@
 {
   "opBreakHarvestLevel": 3,
   "maxOpCount": 100000,
-  "maxSpellCircleLength": 1024,
+  "maxSpellCircleLength": 20000,
   "actionDenyList": [
     "hexal:tick",
-    "hexstruction:save_structure"
+    "hexal:gate/close",
+    "hexstruction:save_structure",
+    "hexic:nbt/serialize",
+    "hexic:nbt/deserialize",
+    "hexic:spellmind/save",
+    "hexic:spellmind/restore"
   ],
   "circleActionDenyList": [
     "hexal:tick",
-    "hexstruction:save_structure"
+    "hexal:gate/close",
+    "hexstruction:save_structure",
+    "hexic:nbt/serialize",
+    "hexic:nbt/deserialize",
+    "hexic:spellmind/save",
+    "hexic:spellmind/restore"
   ],
   "greaterTeleportSplatsItems": true,
   "villagersOffendedByMindMurder": true,

@@ -4,7 +4,6 @@
   "maxSpellCircleLength": 20000,
   "actionDenyList": [
     "hexal:tick",
-    "hexal:gate/close",
     "hexstruction:save_structure",
     "hexic:nbt/serialize",
     "hexic:nbt/deserialize",
@@ -13,7 +12,6 @@
   ],
   "circleActionDenyList": [
     "hexal:tick",
-    "hexal:gate/close",
     "hexstruction:save_structure",
     "hexic:nbt/serialize",
     "hexic:nbt/deserialize",

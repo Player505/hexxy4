@@ -218,7 +218,7 @@ hash = "58333d9d7504ef2009dbc3e4fe064d4a4777b6e7e0c4ff328ba4c3a43e1c328d"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d81ad7d0941b160ffde42d9d1d2028c7035a62b67d23b8035fbad139da09baf6"
+hash = "68ef1d02d16cb8bb1b6f73e55e6ed28c119cf6c85af36fb4222dfa62c0c4f3be"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -238,7 +238,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "d0d8d401a255c7fbb2c5e65c2474f136a5b8d3a4efc425a6827a79bed771beda"
+hash = "70a0ec1cf3222447201c5c024d45d0f3fceed36f0e86883489ce6621c0d56bd6"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -302,7 +302,7 @@ hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 
 [[files]]
 file = "config/hexal/client.json5"
-hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
+hash = "9d071e8829e0f8703f0fb63cba40668a862b008af16b31b9019ed9e1a4d3b287"
 
 [[files]]
 file = "config/hexal/common.json5"
@@ -310,7 +310,11 @@ hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 
 [[files]]
 file = "config/hexal/server.json5"
-hash = "30fd9bc456ce2f64aa0f0618b9fe3856478109a8e4c3518156e4247b759fd312"
+hash = "b20af5b14c08d51fe0457dcd9b25947e50ff5b59c77cec622f195d9c421ef267"
+
+[[files]]
+file = "config/hexcassettes.json"
+hash = "1a81cd3027906f8e07a4d10be826c4936fd0ee4ce335950e6a7f1c448bda3b51"
 
 [[files]]
 file = "config/hexcasting/client.json"
@@ -322,7 +326,7 @@ hash = "c0e37aeda3a508f8b87dddc1a39769627216978974e35287e6f88f40c0909582"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "db418efa39d5ede7690a2c9d5f1c931163801a1359c075865652ab8c6a554f30"
+hash = "14cdb085d5cb61763d9297fce7128275c974467b30c18325bd031d5af8f66486"
 
 [[files]]
 file = "config/hexdebug/client.toml"
@@ -419,6 +423,10 @@ hash = "ca135337bb4520c231e75a2bf688ad822f253d50e330982fb295002aea361017"
 [[files]]
 file = "config/jline4mcdsrv.toml"
 hash = "57f7b05c8548cc05caa82b489cef6852a40695c20ec6670e4433fdc91a9abb97"
+
+[[files]]
+file = "config/jsonpatcher.json"
+hash = "0dbc42a29cafdf669ec15ba1f68c284fdd876ff5d38200bde07719b52c012ba3"
 
 [[files]]
 file = "config/justzoom/config.txt"
@@ -744,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "4fde02c702284636456f8292899b53cbd0a2c1e394210a2c5d02c776247fcd19"
+hash = "44166ac507165961a30d7f9c827bea93ac5971ce0feaae1f80fe5e9b6e8b35d6"
 metafile = true
 
 [[files]]
@@ -1011,16 +1019,16 @@ hash = "4909540724dd1ed0dc1ece335f34f09f6da522afc357dfe7ec0cc21d75d68c17"
 metafile = true
 
 [[files]]
-file = "mods/hexal-fabric-1.20.1-0.3.0-05823bd.jar"
-hash = "ef88258c8a76588608fe9a8cd3b38dc4caa00b8f54eb0d5aca6461543c1df87f"
+file = "mods/hexal-fabric-1.20.1-0.3.0-301756e.jar"
+hash = "71756cde9d931af6b779fdf475598521899086b28395783fb9fcf1151dc3a59f"
 
 [[files]]
 file = "mods/hexcassettes-2.0.0-b7d281b.jar"
 hash = "a73481711bb57f2eb8461c71a3e562602cbf097c6ae90f0ad0df49386e7bd60d"
 
 [[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.2-285c9df.jar"
-hash = "e2bfdc1fcb448dc55cdaf9b8944d6a1441161622e50442b3f04f6b790756a9f5"
+file = "mods/hexcasting-fabric-1.20.1-0.11.2-821ae79.jar"
+hash = "566d75443b37edb4474622d2c0bf616d12d1732a3d7dc6f9cf8a8888385782ce"
 
 [[files]]
 file = "mods/hexcellular-1.1.0-64d134a.jar"
@@ -1037,8 +1045,8 @@ hash = "309df2a1401d03bf5780929cb492e949005ebe6d04d3804e530ef1ba5d8a805e"
 metafile = true
 
 [[files]]
-file = "mods/hexic-1.4.4.jar"
-hash = "4c6fdc5268c8dcecd46e7dbaeea28016f034041d326bc9688f3bece3517ada12"
+file = "mods/hexic-1.4.5+034100b.jar"
+hash = "ad7da7cab2441e09dbc845b49a392b4d02fb323e58d85ce2f99b8e34d68d3952"
 
 [[files]]
 file = "mods/hexical-2.0.0-e0d7ef9.jar"
@@ -1239,8 +1247,8 @@ hash = "a4d50f47614999e8bd7dee5fd86b3dfe6b2a918c4d9d74ad226d0061fb783104"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0-54b1e21.jar"
-hash = "840c1552088a0f5829d4af4769638f8598fe248a64563ba2dff66335bf025d96"
+file = "mods/oneironaut-fabric-1.20.1-0.5.0-8143784.jar"
+hash = "4b246fb6e3e82bf03a5cd3e6eefa93784118bdcaeba1c6a26fd697f7d9f9e988"
 
 [[files]]
 file = "mods/overevaluate-1.0.0-7ebb76e.jar"
@@ -1428,6 +1436,14 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "634e04c7df7c1cdb6a86b841c8053be60a6475f2d6869bc6f9edbf6ecb0d3a79"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Hexxycraft/assets/complexhex/lang/en_us.json"
+hash = "955eff8dc78f86a4d66564c3c227cb42caab90c1f272ea806b539d32f3188c1d"
+
+[[files]]
+file = "resourcepacks/Hexxycraft/assets/hexcasting/patchouli_books/thehexbook/en_us/entries/greatwork/hexbox.json"
+hash = "d665bee7ae5cd9b1c31a86ba26bc137f3adca900b7eb88feef4c9bfdaca906ac"
 
 [[files]]
 file = "resourcepacks/Hexxycraft/assets/hexcasting/patchouli_books/thehexbook/en_us/entries/greatwork/quenching_allays.json"

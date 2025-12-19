@@ -1245,8 +1245,8 @@ hash = "a4d50f47614999e8bd7dee5fd86b3dfe6b2a918c4d9d74ad226d0061fb783104"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0-ad811dc.jar"
-hash = "04690567bd121e775de089fcb5cd1238a55e6e8eca53954ec4eedd2fdf20294c"
+file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
+hash = "69f760622b7b66762e37c9280c269bf1859bd7d6308eefd75ed1a9e42c7de54c"
 
 [[files]]
 file = "mods/overevaluate-1.0.0-7ebb76e.jar"
